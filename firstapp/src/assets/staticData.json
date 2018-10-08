@@ -1,0 +1,40 @@
+{
+  "cardsList" : [
+    {
+      "id": "1",
+      "image":{
+        "src" : "../images/pr-sample13.jpg",
+        "alt" : "pr-sample13"
+      },
+      "Date":"04/28/2018",
+      "text" :{
+        "Heading" : "An Abstract Post Heading",
+        "description" : "Which is worse, that everyone has his price, or that the price is always so low."
+      }
+    },
+    {
+      "id": "2",
+      "image":{
+        "src" : "../images/pr-sample21.jpg",
+        "alt" : "pr-sample21"
+      },
+      "Date":"05/17/2018",
+      "text" :{
+        "Heading" : "Down with this sort of thing",
+        "description" : "I'm killing time while I wait for life to shower me with meaning and happiness."
+      }
+    },
+    {
+      "id": "3",
+      "image":{
+        "src" : "../images/pr-sample23.jpg",
+        "alt" : "pr-sample23"
+      },
+      "Date":"06/08/2018",
+      "text" :{
+        "Heading" : "The World Ended Yesterday",
+        "description" : "The only skills I have the patience to learn are those that have no real application in life. "
+      }
+    }
+  ]
+}
