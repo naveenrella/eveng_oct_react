@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './css/imageHover.css';
-import jsonData from './assets/staticData.json'
+import jsonData from './assets/staticData.json';
 
 
 class App extends Component {
@@ -22,9 +22,11 @@ class App extends Component {
 
         const listItems = cardsList.map((card) =>
             // <li>{card.image.src}</li> 
+           
+
             <div>
                 <figure className="snip1529">
-                <img src={card.image.src} alt= {card.image.alt} />
+                <img key={card.id} src={`/images/${card.image.src}`}/>
                 <div className="date"><span className="day">28</span><span className="month">Apr</span></div>
                 <figcaption>
                     <h3>{card.text.heading}</h3>
@@ -32,6 +34,7 @@ class App extends Component {
                 </figcaption>
                 <div className="hover"><i className="ion-android-open"></i></div>
                 <a href="#"></a>
+
             </figure> 
             </div>
             

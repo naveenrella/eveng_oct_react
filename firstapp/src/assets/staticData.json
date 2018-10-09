@@ -3,7 +3,7 @@
     {
       "id": "1",
       "image":{
-        "src" : "../images/pr-sample13.jpg",
+        "src" : "pr-sample13.jpg",
         "alt" : "pr-sample13"
       },
       "Date":"04/28/2018",
@@ -15,7 +15,7 @@
     {
       "id": "2",
       "image":{
-        "src" : "../images/pr-sample21.jpg",
+        "src" : "pr-sample21.jpg",
         "alt" : "pr-sample21"
       },
       "Date":"05/17/2018",
@@ -27,7 +27,7 @@
     {
       "id": "3",
       "image":{
-        "src" : "../images/pr-sample23.jpg",
+        "src" : "pr-sample23.jpg",
         "alt" : "pr-sample23"
       },
       "Date":"06/08/2018",
