@@ -6,7 +6,7 @@
         "src" : "pr-sample13.jpg",
         "alt" : "pr-sample13"
       },
-      "Date":"04/28/2018",
+      "date":"01/28/2018",
       "text" :{
         "heading" : "An Abstract Post Heading",
         "description" : "Which is worse, that everyone has his price, or that the price is always so low."
@@ -18,7 +18,7 @@
         "src" : "pr-sample21.jpg",
         "alt" : "pr-sample21"
       },
-      "Date":"05/17/2018",
+      "date":"02/17/2018",
       "text" :{
         "heading" : "Down with this sort of thing",
         "description" : "I'm killing time while I wait for life to shower me with meaning and happiness."
@@ -30,10 +30,33 @@
         "src" : "pr-sample23.jpg",
         "alt" : "pr-sample23"
       },
-      "Date":"06/08/2018",
+      "date":"05/24/2018",
       "text" :{
         "heading" : "The World Ended Yesterday",
         "description" : "The only skills I have the patience to learn are those that have no real application in life. "
+      }
+    },{
+      "id": "4",
+      "image":{
+        "src" : "pr-sample-04.jpeg",
+        "alt" : "pr-sample-04"
+      },
+      "date":"07/06/2018",
+      "text" :{
+        "heading" : "Take Me I'm Yours",
+        "description" : "Don't tell me to stop shopping. I don't need that kind of negativity in my life."
+      }
+    },
+    {
+      "id": "5",
+      "image":{
+        "src" : "pr-sample-05.jpeg",
+        "alt" : "pr-sample-05"
+      },
+      "date":"10/08/2018",
+      "text" :{
+        "heading" : "Shopping is Art !",
+        "description" : "Whoever said that money can't buy happiness, simply didn't know where to go SHOPPING."
       }
     }
   ]
