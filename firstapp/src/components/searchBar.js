@@ -18,7 +18,6 @@ class SearchBar extends Component {
     if(this.state.addClass) {
       searchClass.push('close');
       inputClass.push('square');
-      console.log(searchClass);
     }
     return(
       <div>

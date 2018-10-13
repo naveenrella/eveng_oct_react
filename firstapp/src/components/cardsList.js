@@ -23,10 +23,10 @@ class CardsList extends Component {
     }
 
     render(){
-        const cardsList = this.state.list.cardsList;
-           
-        const listItems = cardsList.map((card) =>
-        <div>                              
+        const cardsList = this.state.list.cardsList;   
+        
+        const listItems = cardsList.map((card) =>        
+        <div>                            
             <figure className="snip1529">
                 <img key={card.id} src={`/images/${card.image.src}`}/>
                 <div className="date">
