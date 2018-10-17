@@ -11,17 +11,8 @@ class Header extends Component {
       return (
         <div>             
           <nav id="navbar" class="">
-            {/* <img id="homePageBackground" src="/images/homePage.jpg" /> */}
             <div class="nav-wrapper">
-              {/* <!-- Navbar Logo --> */}
-              {/* <div class="logo"> */}
-                {/* <!-- Logo Placeholder for Inlustration --> */}
-                {/* <a href="#home"><i class="fas fa-chess-knight"></i> Logo</a>
-              </div> */}
-
-              {/* <!-- Navbar Links --> */}
               <ul id="menu">
-                {/* <li><Link to="/home">Home</Link></li>  */}
                 <li><Link to="/home">Home</Link></li>                
                 <li><Link to="/cardsList">cardsList</Link></li>
               </ul>
